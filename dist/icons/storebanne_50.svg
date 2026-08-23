@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <g>
-    <rect x="112" y="190" width="32" height="102.5" fill="#FFFFFF"/>
-    <rect x="144" y="190" width="32" height="102.5" fill="#34383A"/>
-    <rect x="176" y="190" width="32" height="102.5" fill="#FFFFFF"/>
-    <rect x="208" y="190" width="32" height="102.5" fill="#34383A"/>
-    <rect x="240" y="190" width="32" height="102.5" fill="#FFFFFF"/>
-    <rect x="272" y="190" width="32" height="102.5" fill="#34383A"/>
-    <rect x="304" y="190" width="32" height="102.5" fill="#FFFFFF"/>
-    <rect x="336" y="190" width="32" height="102.5" fill="#34383A"/>
-    <rect x="368" y="190" width="32" height="102.5" fill="#FFFFFF"/>
+    <rect x="112" y="190" width="32" height="159.5" fill="#FFFFFF"/>
+    <rect x="144" y="190" width="32" height="159.5" fill="#34383A"/>
+    <rect x="176" y="190" width="32" height="159.5" fill="#FFFFFF"/>
+    <rect x="208" y="190" width="32" height="159.5" fill="#34383A"/>
+    <rect x="240" y="190" width="32" height="159.5" fill="#FFFFFF"/>
+    <rect x="272" y="190" width="32" height="159.5" fill="#34383A"/>
+    <rect x="304" y="190" width="32" height="159.5" fill="#FFFFFF"/>
+    <rect x="336" y="190" width="32" height="159.5" fill="#34383A"/>
+    <rect x="368" y="190" width="32" height="159.5" fill="#FFFFFF"/>
   </g>
 
-  <path d="M112 190 V292.5 M400 190 V292.5"
+  <path d="M112 190 V349.5 M400 190 V349.5"
         fill="none" stroke="#111111" stroke-width="4"/>
 
   <rect x="96" y="166" width="320" height="28" rx="1"
@@ -21,6 +21,6 @@
   <rect x="412" y="170" width="9" height="27"
         fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 
-  <rect x="106" y="290.5" width="300" height="14"
+  <rect x="106" y="347.5" width="300" height="14"
         fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
 </svg>

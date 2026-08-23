@@ -3,19 +3,19 @@
 
   <!-- Toile 90% : 9 stries, blanc aux deux extrémités -->
   <g>
-    <rect x="112" y="190" width="32" height="184.5" fill="#FFFFFF"/>
-    <rect x="144" y="190" width="32" height="184.5" fill="#34383A"/>
-    <rect x="176" y="190" width="32" height="184.5" fill="#FFFFFF"/>
-    <rect x="208" y="190" width="32" height="184.5" fill="#34383A"/>
-    <rect x="240" y="190" width="32" height="184.5" fill="#FFFFFF"/>
-    <rect x="272" y="190" width="32" height="184.5" fill="#34383A"/>
-    <rect x="304" y="190" width="32" height="184.5" fill="#FFFFFF"/>
-    <rect x="336" y="190" width="32" height="184.5" fill="#34383A"/>
-    <rect x="368" y="190" width="32" height="184.5" fill="#FFFFFF"/>
+    <rect x="112" y="190" width="32" height="241.5" fill="#FFFFFF"/>
+    <rect x="144" y="190" width="32" height="241.5" fill="#34383A"/>
+    <rect x="176" y="190" width="32" height="241.5" fill="#FFFFFF"/>
+    <rect x="208" y="190" width="32" height="241.5" fill="#34383A"/>
+    <rect x="240" y="190" width="32" height="241.5" fill="#FFFFFF"/>
+    <rect x="272" y="190" width="32" height="241.5" fill="#34383A"/>
+    <rect x="304" y="190" width="32" height="241.5" fill="#FFFFFF"/>
+    <rect x="336" y="190" width="32" height="241.5" fill="#34383A"/>
+    <rect x="368" y="190" width="32" height="241.5" fill="#FFFFFF"/>
   </g>
 
   <!-- Limites latérales -->
-  <path d="M112 190 V374.5 M400 190 V374.5"
+  <path d="M112 190 V431.5 M400 190 V431.5"
         fill="none" stroke="#111111" stroke-width="4"/>
 
   <!-- Montant supérieur fixe -->
@@ -27,6 +27,6 @@
         fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
 
   <!-- Montant inférieur remonté à 90% -->
-  <rect x="106" y="372.5" width="300" height="14"
+  <rect x="106" y="429.5" width="300" height="14"
         fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
 </svg>
