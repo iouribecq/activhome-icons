@@ -1,32 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <!-- Fond transparent -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 512" width="400" height="512">
+  <g fill="currentColor">
+    <!-- Lames -->
+    <rect x="64" y="80" width="274" height="26" rx="6"/>
+    <rect x="40" y="263.0" width="320" height="26" rx="6"/>
 
-  <!-- Toile plus longue : 9 stries, blanc aux deux extrémités -->
-  <g>
-    <rect x="112" y="190" width="32" height="262" fill="#FFFFFF"/>
-    <rect x="144" y="190" width="32" height="262" fill="#34383A"/>
-    <rect x="176" y="190" width="32" height="262" fill="#FFFFFF"/>
-    <rect x="208" y="190" width="32" height="262" fill="#34383A"/>
-    <rect x="240" y="190" width="32" height="262" fill="#FFFFFF"/>
-    <rect x="272" y="190" width="32" height="262" fill="#34383A"/>
-    <rect x="304" y="190" width="32" height="262" fill="#FFFFFF"/>
-    <rect x="336" y="190" width="32" height="262" fill="#34383A"/>
-    <rect x="368" y="190" width="32" height="262" fill="#FFFFFF"/>
+    <!-- Montants : cadre raccourci d'environ 10 % -->
+    <rect x="80"  y="263.0" width="16" height="92.0" rx="4"/>
+    <rect x="304" y="263.0" width="16" height="92.0" rx="4"/>
+
+    <!-- Barre du bas remontée -->
+    <rect x="80" y="345" width="240" height="16" rx="4"/>
   </g>
 
-  <!-- Limites latérales -->
-  <path d="M112 190 V452 M400 190 V452"
-        fill="none" stroke="#111111" stroke-width="4"/>
+  <!-- Lignes obliques pour perspective : inchangées -->
+  <g fill="none" stroke="currentColor" stroke-width="24" stroke-linecap="round">
+    <line x1="74"  y1="106" x2="52"  y2="263.0"/>
+    <line x1="326" y1="106" x2="348" y2="263.0"/>
 
-  <!-- Montant supérieur fixe -->
-  <rect x="96" y="166" width="320" height="28" rx="1"
-        fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
-  <rect x="91" y="170" width="9" height="27"
-        fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
-  <rect x="412" y="170" width="9" height="27"
-        fill="#FFFFFF" stroke="#111111" stroke-width="5"/>
-
-  <!-- Montant inférieur -->
-  <rect x="106" y="450" width="300" height="14"
-        fill="#FFFFFF" stroke="#111111" stroke-width="6"/>
+    <line x1="118.8" y1="106" x2="104" y2="263.0"/>
+    <line x1="173.6" y1="106" x2="168" y2="263.0"/>
+    <line x1="228.4" y1="106" x2="232" y2="263.0"/>
+    <line x1="283.2" y1="106" x2="296" y2="263.0"/>
+  </g>
 </svg>
