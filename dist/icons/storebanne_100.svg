@@ -2,11 +2,11 @@
   <g fill="currentColor">
     <!-- Lames -->
     <rect x="64" y="80" width="274" height="26" rx="6"/>
-    <rect x="40" y="263.0" width="320" height="26" rx="6"/>
+    <rect x="40" y="231.5" width="320" height="26" rx="6"/>
 
     <!-- Montants : cadre raccourci d'environ 10 % -->
-    <rect x="80"  y="263.0" width="16" height="92.0" rx="4"/>
-    <rect x="304" y="263.0" width="16" height="92.0" rx="4"/>
+    <rect x="80"  y="231.5" width="16" height="123.5" rx="4"/>
+    <rect x="304" y="231.5" width="16" height="123.5" rx="4"/>
 
     <!-- Barre du bas remontée -->
     <rect x="80" y="345" width="240" height="16" rx="4"/>
@@ -14,12 +14,12 @@
 
   <!-- Lignes obliques pour perspective : inchangées -->
   <g fill="none" stroke="currentColor" stroke-width="24" stroke-linecap="round">
-    <line x1="74"  y1="106" x2="52"  y2="263.0"/>
-    <line x1="326" y1="106" x2="348" y2="263.0"/>
+    <line x1="74"  y1="106" x2="52"  y2="231.5"/>
+    <line x1="326" y1="106" x2="348" y2="231.5"/>
 
-    <line x1="118.8" y1="106" x2="104" y2="263.0"/>
-    <line x1="173.6" y1="106" x2="168" y2="263.0"/>
-    <line x1="228.4" y1="106" x2="232" y2="263.0"/>
-    <line x1="283.2" y1="106" x2="296" y2="263.0"/>
+    <line x1="118.8" y1="106" x2="104" y2="231.5"/>
+    <line x1="173.6" y1="106" x2="168" y2="231.5"/>
+    <line x1="228.4" y1="106" x2="232" y2="231.5"/>
+    <line x1="283.2" y1="106" x2="296" y2="231.5"/>
   </g>
 </svg>
